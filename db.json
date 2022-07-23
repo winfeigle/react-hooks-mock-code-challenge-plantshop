@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Potted Mint",
+      "image": "https://media.greg.app/cGxhbnQtZGItcGhvdG9zL21leGljYW5fbWludC5qcGc=?auto=webp&width=1000&fit=cover&format=pjpg&height=1000&optimize=medium&precrop=1000:1000,smart",
+      "price": "7.99",
+      "id": 8
     }
   ]
 }
